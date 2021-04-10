@@ -1,0 +1,59 @@
+.contai{
+   display: flex;
+   margin: 30px;
+  
+}
+.about1{
+    border: 2px solid red;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    height: 350px;
+    width: 200px;
+    border-radius: 120px;
+}
+.about2{
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px;
+    padding: 30px;
+    height: 350px;
+    width: 200px;
+    border-radius: 120px;
+    
+
+}
+.about3{
+    border: 2px solid green;
+    text-align: center;
+    margin: 10px;
+    padding: 30px;
+    height: 355px;
+    width: 200px;
+    border-radius: 120px;
+    
+}
+.about4{
+    border: 2px solid blue;
+    text-align: center;
+    margin: 10px;
+    padding: 30px;
+    height: 350px;
+    width: 200px;
+    border-radius: 120px;
+}
+.h1{
+    font-family: 'Train One', cursive;
+    text-align: center;
+    letter-spacing: 4px;
+    text-align: center;
+}
+.font{
+    font-family: 'Orbitron', sans-serif;
+
+}
+body{
+    background-position: center;
+    background-size: 100%;
+    
+}

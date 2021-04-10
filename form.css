@@ -1,0 +1,28 @@
+.image{
+    text-align: center;
+}
+.name{
+    padding: 4px;
+    text-align: center;
+}
+.box{
+    border: 1px solid black;
+    width: 300px;
+    position: relative;
+    left:38% ;
+    align-items: center;
+}
+type[input = "text"]{
+    width: 100%;
+}
+.login{
+    text-align: center;
+}
+#demon:hover{
+    background-color: rgba(45, 87, 4, 0.911);
+
+}
+#demon{
+    background-color: rgb(153, 197, 108);
+    align-items: center;
+}
